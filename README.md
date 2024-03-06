@@ -161,7 +161,7 @@ might look like:
 ```html
 <h3>Top 5 Favorite Foods</h3>
 <ol>
-  <li>Grilled Cheese</li>
+  <li>pepper jack</li>
   <li>Sushi</li>
   <li>Banh Mi</li>
   <li>Tomato soup</li>
